@@ -5,7 +5,7 @@
  - https://mohammadrezahq.github.io
 
 <h3 align="left">Connect:</h3>
- - https://linkedin.com/in/mohammadrezahq
+ - https://www.linkedin.com/in/mohammadreza-haghshenas-946b41125
 
 
 <!--
