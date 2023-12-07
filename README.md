@@ -1,9 +1,8 @@
 <h1 align="left">Mohammadreza Haghshenas</h1>
 <p align="left">A back-end developer, student, future seeker </p>
 
-<h3 align="left">
-  About me: mohammadrezahq.github.io 
-</h3>
+<h3 align="left">About me:</h3>
+ - https://mohammadrezahq.github.io
 
 <h3 align="left">Connect:</h3>
  - https://linkedin.com/in/mohammadrezahq
